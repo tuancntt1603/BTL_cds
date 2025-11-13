@@ -1,0 +1,7 @@
+{
+  "name": "Đổi đồ cũ - Tái sử dụng",
+  "description": "Một nền tảng cộng đồng để trao đổi và tái sử dụng các mặt hàng cũ, được hỗ trợ bởi AI để giúp bạn tạo danh sách sản phẩm hấp dẫn.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
