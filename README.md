@@ -1,3 +1,25 @@
+<h2 align="center">
+    <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
+    🎓 Faculty of Information Technology (DaiNam University)
+    </a>
+</h2>
+<h2 align="center">
+   CHAT ROOM DÙNG UDP MULTICAST
+</h2>
+<div align="center">
+    <p align="center">
+        <img alt="AIoTLab Logo" width="170" src="https://github.com/user-attachments/assets/711a2cd8-7eb4-4dae-9d90-12c0a0a208a2" />
+        <img alt="AIoTLab Logo" width="180" src="https://github.com/user-attachments/assets/dc2ef2b8-9a70-4cfa-9b4b-f6c2f25f1660" />
+        <img alt="DaiNam University Logo" width="200" src="https://github.com/user-attachments/assets/77fe0fd1-2e55-4032-be3c-b1a705a1b574" />
+    </p>
+
+[![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
+[![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
+## 📖 1. Giới thiệu
+Ứng dụng Đổi lịch sử – Tái sử dụng giúp người dùng dễ dàng trao đổi, tặng hoặc mua bán đồ cũ ngay trên điện thoại. Ứng dụng lưu lại lịch sử giao dịch, quản lý đồ dùng đã trao đổi và hỗ trợ tìm kiếm nhanh các món đồ cần thiết.
+Mục tiêu của ứng dụng là tái sử dụng tài nguyên, giảm lãng phí và giúp cộng đồng sử dụng đồ cũ hiệu quả hơn. Giao diện đơn giản, dễ thao tác trên điện thoại như Redmi hay các máy Android khác, phù hợp với mọi người dùng.
+</div>
 # Ứng dụng Đổi đồ cũ – Tái sử dụng
 
 Ứng dụng web trao đổi đồ cũ, tái sử dụng và bảo vệ môi trường với đầy đủ tính năng hiện đại.
@@ -165,6 +187,11 @@ prisma/                 # Database schema
 3. Tạo API routes trong `app/api/`
 4. Tạo UI components và pages
 
-## 📄 License
+## Thông tin cá nhân
+**Họ tên**: Bùi Anh Tuấn.  
+**Lớp**: CNTT 16-03.  
+**Email**: gaytongteo2004@gmail.com.
 
-MIT
+© 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
+
+---
