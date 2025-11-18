@@ -80,6 +80,36 @@ Mục tiêu của ứng dụng là tái sử dụng tài nguyên, giảm lãng p
 - ✅ Thông báo giao dịch được xác nhận
 - ✅ Hiển thị số lượng thông báo chưa đọc
 
+
+### 🚀 Hình ảnh demo vài chức năng
+
+<div align="center">
+  <img width="800" height="550" alt="Giao diện ứng dụng Đổi đồ cũ" 
+       src="https://github.com/user-attachments/assets/8a159c1f-f056-45ea-b9d7-6871218b6baa" />
+  <p><b>Hình 1.</b> Giao diện ứng dụng Đổi đồ cũ.</p>
+</div>
+
+<div align="center">
+  <img width="800" height="550" alt="Chat bot AI" 
+       src="https://github.com/user-attachments/assets/eada7556-eba1-491b-9fc0-ae0e26acad32" />
+  <p><b>Hình 2.</b> Chat bot AI.</p>
+</div>
+
+<div align="center">
+  <img width="800" height="550" alt="AI tạo ảnh" 
+       src="https://github.com/user-attachments/assets/43ef663d-a5cf-4ed3-8789-486a86030b09" />
+  <p><b>Hình 3.</b> AI tạo ảnh.</p>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img 
+       src="https://github.com/user-attachments/assets/8a3b62db-896b-4acf-8c12-1b018d2977ee" 
+       alt="Đăng đồ để đổi" 
+       style="max-width: 600px; height: auto; border: 1px solid #ccc; box-shadow: 2px 2px 12px rgba(0,0,0,0.2); border-radius: 8px;" />
+  <p><b>Hình 4.</b> Đăng đồ để đổi.</p>
+</div>
+
+
 ## 🚀 Công nghệ sử dụng
 
 - **Next.js 14** - Framework React với App Router
